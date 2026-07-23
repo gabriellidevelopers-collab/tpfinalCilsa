@@ -1,3 +1,5 @@
+Alumno: Gabriel Gabrielli
+Correo: gabgabrielligabriel@gmail.com.
 # TP Final Cilsa - TaskFlow
 
 Gestor de tareas fullstack con frontend en Vercel y backend en Render.
